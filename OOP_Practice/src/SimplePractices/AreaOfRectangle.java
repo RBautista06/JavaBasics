@@ -8,6 +8,7 @@ public class AreaOfRectangle {
         double width = 0;
         double height = 0;
         double area = 0;
+        // asd
 
         System.out.println("Area of Rectangle Calculation");
 
